@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一直在路上</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-28T06:34:59.209Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ashley</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大家好，我是悦</title>
+    <link href="http://yoursite.com/2018/07/28/%E6%88%91%E6%98%AF%E6%A9%99%E5%AD%90%E6%82%A6/"/>
+    <id>http://yoursite.com/2018/07/28/我是橙子悦/</id>
+    <published>2018-07-28T04:04:01.000Z</published>
+    <updated>2018-07-28T06:34:59.209Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;兔子送我的纪念日礼物哦&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="love" scheme="http://yoursite.com/categories/love/"/>
+    
+    
+      <category term="我爱兔子" scheme="http://yoursite.com/tags/%E6%88%91%E7%88%B1%E5%85%94%E5%AD%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我从很多聪明人身上学到了什么？</title>
+    <link href="http://yoursite.com/2018/06/05/%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E2%80%94%E2%80%94%E5%A4%8D%E5%88%A9%E6%B3%95%E5%88%99/"/>
+    <id>http://yoursite.com/2018/06/05/很重要的——复利法则/</id>
+    <published>2018-06-05T14:52:02.000Z</published>
+    <updated>2018-07-28T06:59:34.205Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在看到知乎上面讲“年轻人最好要接触的东西”时，一位高票答主将之总结为3条：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.培养自己的复利曲线；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.保持平静状态的能力；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.避免单一化标准思维；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我发现，跟偶像芒格推崇的思维方式是一样的：&lt;/p&gt;
+&lt;p&gt;必须拥有多元思维模型，就像那句谚语说的：&lt;code&gt;拿着铁锤的人，每个问题都像钉子。但这是灾难式的处世方式&lt;/code&gt;。掌握8/9个模型差不多可以让我们变成拥有普世智慧的人，其中，最重要的模型也就只有几个。&lt;/p&gt;
+&lt;p&gt;其中数学（复利、排列组合） 如果你没有把这个基本的但有些不那么自然的基础数学概率方法变成你生活的一部分，那么在漫长的人生中，你们将会像一个踢屁股比赛中的独腿人。这等于将巨大的优势拱手送给了他人。之前又看到过李笑来总是重复数学中概率论的重要性，你知道它了就不会去买彩票了。真真怀疑他的思想是从芒格那里迁移的（开玩笑）。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="简书" scheme="http://yoursite.com/tags/%E7%AE%80%E4%B9%A6/"/>
+    
+  </entry>
+  
+</feed>
